@@ -33,7 +33,7 @@ Program terdiri dari dua kelas utama:
 2. Konfirmasi akan muncul sebelum data benar-benar dihapus.
 3. Jika memilih "Yes", data dihapus dari listMahasiswa dan tabel diperbarui.
 
-# Screen Record Output Program
+# Dokumentasi Output Program
 
 https://github.com/user-attachments/assets/fdbb1fbb-5893-4bbb-bcdf-c841cec5018d
 
