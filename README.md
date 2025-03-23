@@ -20,7 +20,7 @@ Program terdiri dari dua kelas utama:
 
 - Ketika pengguna menambahkan mahasiswa:
 1. Pengguna mengisi NIM, Nama, Jenis Kelamin, dan Nilai di formulir input.
-2. Klik tombol "Tambah" → Program mengambil data input, membuat objek Mahasiswa, lalu menambahkannya ke listMahasiswa.
+2. Klik tombol "Add" → Program mengambil data input, membuat objek Mahasiswa, lalu menambahkannya ke listMahasiswa.
 3. Tabel diperbarui dengan data yang baru.
 
 - Ketika pengguna mengedit mahasiswa:
@@ -29,7 +29,7 @@ Program terdiri dari dua kelas utama:
 3. Data mahasiswa di listMahasiswa diperbarui, lalu tabel diperbarui.
 
 - Ketika pengguna menghapus mahasiswa:
-1. Klik baris yang ingin dihapus, lalu klik "Hapus".
+1. Klik baris yang ingin dihapus, lalu klik "Delete".
 2. Konfirmasi akan muncul sebelum data benar-benar dihapus.
 3. Jika memilih "Yes", data dihapus dari listMahasiswa dan tabel diperbarui.
 
